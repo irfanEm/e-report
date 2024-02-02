@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'irfan_m/e-report',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'ade8c54a62f65e70d36f755cea8e58c50519f440',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'irfan_m/e-report' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'ade8c54a62f65e70d36f755cea8e58c50519f440',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
