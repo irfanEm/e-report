@@ -13,6 +13,8 @@ class HomeController
 
     public function notFound()
     {
-        View::view("Errors/404");
+        View::view("Errors/404", [
+            "title" => "404 | Not found"
+        ]);
     }
 }

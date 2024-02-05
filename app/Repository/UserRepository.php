@@ -3,6 +3,7 @@
 namespace IRFANM\PHP\EREPORT\Repository;
 
 use IRFANM\PHP\EREPORT\Domain\User;
+use \PDO;
 
 class UserRepository
 {
